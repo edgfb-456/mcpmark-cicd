@@ -1,4 +1,5 @@
-var unused = "double quotes"
+const message = 'single quotes';
 function test() {
-    return "missing semicolon"
+    return message;
 }
+test();
