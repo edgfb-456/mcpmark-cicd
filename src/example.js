@@ -1,2 +1,2 @@
-var unused = "I am unused";
-console.log("Hello world")
+const example = 'Hello world';
+module.exports = example;
